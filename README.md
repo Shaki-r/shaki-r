@@ -1,58 +1,45 @@
-<!-- CAPSULE LAYER HEADER -->
-<p align="center">
-  <img src="https://vercel.app" width="100%" />
-</p>
+# Hi there, I'm Muhammad Shakir 👋
 
-<!-- LIVE TYPING MATRIX -->
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
+## ⚡ Aspiring MERN Stack Architect | Supabase Enthusiast
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn Node" />
-  </a>
-</p>
+Welcome to my digital profile! I am passionate about crafting smooth, lag-free user experiences and building highly optimized, performance-driven web applications.
 
 ---
 
 ### 🌐 System Overview (About Me)
-```json
-{
-  "name": "Muhammad Shakir",
-  "current_trajectory": "MERN Stack Engine & Scalable Systems",
-  "cloud_focus": "Supabase BaaS / Realtime Database Operations",
-  "core_philosophy": "Eliminate UI flicker and build high-performance, seamless applications"
-}
-```
-- 🚀 **Frontend Mastery:** Successfully completed core engineering in **HTML5, CSS3, and Advanced JavaScript Ecosystems**.
-- 🧪 **Current Experimentation:** Integrating bulletproof backend microservices using **Supabase backend services**, writing robust state actions, and mastering secure environments.
-- 🛠️ **Performance Engineering:** Focused heavily on building blazing-fast pipelines using client-side **Optimistic Updates** to keep interfaces completely smooth and lag-free.
+
+* 🎯 **Current Focus:** Advanced backend engineering and fluid state transitions.
+* ☁️ **Cloud Database Architecture:** Building structured tables and microservices with Supabase BaaS.
+* 🛠️ **Engineering Core:** Successfully mastered HTML5, CSS3, and modern JavaScript environments.
+* 🚀 **UI Principle:** Eliminating component flicker and optimizing response networks using smart architectural updates.
 
 ---
 
 ### 🛠️ Tech Stack Matrix
 
-| Layer | Technologies Built |
-| :--- | :--- |
-| **Frontend Frameworks** | <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> |
-| **Cloud Databases** | <img src="https://shields.io"/> <img src="https://shields.io"/> |
-| **Backend Engines** | <img src="https://shields.io"/> <img src="https://shields.io"/> |
+#### Frontend & Core Foundations
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io)
+
+#### Backend Architecture & Microservices
+![Node.js](https://shields.io) ![Express.js](https://shields.io) ![MongoDB](https://shields.io)
+
+#### BaaS & Realtime Cloud Infrastructure
+![Supabase](https://shields.io)
 
 ---
 
 ### 📊 Realtime Core Performance (Live GitHub Engine)
 
-<p align="center">
-  <img src="https://vercel.app" alt="Shakir's Core Performance" width="49%" />
-  <img src="https://vercel.app" alt="Shakir's Language Analysis" width="49%" />
-</p>
+Here is a live analytical preview of my developer performance and coding engine trackers:
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="Shakir's Development Streak" width="99%" />
-</p>
+![Shakir's Core Performance](https://vercel.app)
+
+![Shakir's Language Analysis](https://vercel.app)
 
 ---
-<p align="center">
-  <img src="https://vercel.app" width="100%"/>
-</p>
+
+### 🌐 Connect With Me
+
+Let's collaborate on scaling modern architectures:
+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
