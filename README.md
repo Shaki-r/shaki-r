@@ -63,17 +63,18 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Shaki-r">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.codewars.com/users/Shaki-r" target="_blank">
+    <img src="https://cdn.simpleicons.org/codewars/B1361E" width="45" height="45" alt="Codewars"/>
   </a>
-  <a href="https://www.codewars.com/users/Shaki-r">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/m_shakir/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" alt="LeetCode"/>
   </a>
-  <a href="https://leetcode.com/u/m_shakir/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</p>
   </a>
 </p>
 
