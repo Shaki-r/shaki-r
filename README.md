@@ -63,11 +63,7 @@
 ## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linkedin.svg"
-       width="45"
-       height="45"
-       alt="LinkedIn"
-       style="filter: invert(27%) sepia(91%) saturate(1800%) hue-rotate(185deg);"/>
+  <img src="https://cdn-icons-png.flaticon.com/256/124/124011.png" alt="LinkedIn"/>
 </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.codewars.com/users/Shaki-r" target="_blank">
