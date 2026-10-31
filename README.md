@@ -1,83 +1,103 @@
-# Hi there, I'm Muhammad Shakir 👋
+# 👋 Hi, I'm Muhammad Shakir
 
-### ⚡ Aspiring MERN Stack Developer | Supabase Enthusiast
+<div align="center">
 
-**Building modern, responsive and interactive web experiences.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Frontend+Web+Developer;JavaScript+%26+TypeScript+Developer;Always+Learning+Something+New!" alt="Typing SVG" />
 
-I'm a passionate web developer focused on creating clean UI, smooth user experiences and practical web applications. I enjoy learning new technologies and improving my development skills through real-world projects.
+**Passionate about building modern, responsive and interactive web experiences.**
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Advanced JavaScript and Backend Development**
-- 💻 Skilled in **HTML5, CSS3 and JavaScript**
-- 📘 Learning **TypeScript**
-- 🎨 Exploring **Tailwind CSS**
-- ☁️ Working with **Supabase**
-- ✨ Interested in animations and interactive UI experiences
-- 🎯 Goal: Become a professional **MERN Stack Developer**
+- 💻 HTML, CSS and JavaScript — Completed
+- 📘 TypeScript — Completed
+- ☁️ Currently learning Supabase
+- 🎨 Exploring Tailwind CSS
+- ✨ Interested in animations and modern UI design
+- 🎯 Working towards becoming a MERN Stack Developer
+- 🌱 Always learning and improving my development skills
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 My Skills
 
-### 🌐 Frontend Development
+### ✅ Completed
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript"/>
+</p>
 
-### ⚙️ Backend Development
+### 📚 Currently Learning
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="42" height="42" alt="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS"/>
+</p>
 
-### ☁️ Database & Backend Services
+### 🔜 Next Technologies to Learn
 
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" height="42" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="42" height="42" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB"/>
+</p>
 
-### 🧰 Tools & Platforms
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="42" height="42" alt="Vercel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="42" height="42" alt="Netlify"/>
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaki-r&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaki-r&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=shaki-r&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="GitHub Stats"/>
 
-## 🐍 Contribution Activity
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaki-r&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="Top Languages"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shaki-r/shaki-r/output/snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=shaki-r&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/shaki-r">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/shaki-r">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/YOUR-USERNAME/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" width="40" alt="LinkedIn"/>
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <b>✨ Always Learning | Always Building | Always Improving ✨</b>
-</p>
+<div align="center">
+
+### ✨ Code • Learn • Build • Repeat
+
+**Thanks for visiting my profile!**
+
+</div>
