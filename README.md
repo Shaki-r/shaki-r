@@ -63,7 +63,7 @@
 ## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/" target="_blank">
-  <img src="[https://cdn-icons-png.flaticon.com/256/124/124011.png](https://camo.githubusercontent.com/1cacbcddf4812a33ce5f62c2aa6698ae7c4ee3c4a7dd780da70415b62b5199bc/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e)"  width="45" height="45" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin"  width="45" height="45" alt="LinkedIn"/>
 </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.codewars.com/users/Shaki-r" target="_blank">
