@@ -1,103 +1,79 @@
-# 👋 Hi, I'm Muhammad Shakir
+ 
+<h1 align="center">Hi 👋, I'm Muhammad Shakir</h1>
 
-<div align="center">
+<h3 align="center">Aspiring MERN Stack Developer | JavaScript & TypeScript Enthusiast</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Frontend+Web+Developer;JavaScript+%26+TypeScript+Developer;Always+Learning+Something+New!" alt="Typing SVG" />
-
-**Passionate about building modern, responsive and interactive web experiences.**
-
-</div>
-
----
-
-## 🚀 About Me
-
-- 💻 HTML, CSS and JavaScript — Completed
-- 📘 TypeScript — Completed
-- ☁️ Currently learning Supabase
-- 🎨 Exploring Tailwind CSS
-- ✨ Interested in animations and modern UI design
-- 🎯 Working towards becoming a MERN Stack Developer
-- 🌱 Always learning and improving my development skills
-
----
-
-## 🧠 My Skills
-
-### ✅ Completed
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript"/>
-</p>
-
-### 📚 Currently Learning
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="42" height="42" alt="Supabase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS"/>
-</p>
-
-### 🔜 Next Technologies to Learn
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" height="42" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="42" height="42" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;JavaScript+%26+TypeScript+Enthusiast;Supabase+Learner;Future+MERN+Stack+Developer" alt="Typing Animation"/>
 </p>
 
 ---
 
-## 🛠️ Tools & Platforms
+## 👨‍💻 About Me
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="42" height="42" alt="Vercel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="42" height="42" alt="Netlify"/>
+- 🌱 Currently learning **Supabase**
+- 💻 Completed **HTML, CSS, JavaScript & TypeScript**
+- 🎨 Basic knowledge of **Tailwind CSS**
+- 🚀 Interested in building modern and responsive web applications
+- 🛠️ Familiar with **GitHub, Vercel, Netlify & VS Code**
+- 🎯 My goal is to become a **Full Stack MERN Developer**
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,supabase,vscode,github,vercel,netlify&perline=5" alt="Languages and Tools"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/>
+</p>
+
+---
+
+## 🔮 Next To Learn
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="Upcoming Technologies"/>
 </p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaki-r&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaki-r&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="Top Languages"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shaki-r&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="GitHub Stats"/>
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaki-r&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="Top Languages"/>
+## 🔥 GitHub Streak
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=shaki-r&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shaki-r&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/shaki-r">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/YOUR-USERNAME/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" width="40" alt="LinkedIn"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.codewars.com/users/Shaki-r/following" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
-
-### ✨ Code • Learn • Build • Repeat
-
-**Thanks for visiting my profile!**
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=00C7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%8A;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing" alt="Thank You Animation"/>
+</p>
