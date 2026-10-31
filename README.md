@@ -62,10 +62,13 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
-  </a>
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linkedin.svg"
+       width="45"
+       height="45"
+       alt="LinkedIn"
+       style="filter: invert(27%) sepia(91%) saturate(1800%) hue-rotate(185deg);"/>
+</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.codewars.com/users/Shaki-r" target="_blank">
     <img src="https://cdn.simpleicons.org/codewars/B1361E" width="45" height="45" alt="Codewars"/>
